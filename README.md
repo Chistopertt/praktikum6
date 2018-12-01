@@ -12,10 +12,9 @@ yang ingin kita buat jalan kan project itu dengan menggunakan fungsi juga
 5. run project jika tidak ada kendala atau eror
 
 **pict program**
-https://github.com/ayuanjani1234/praktikum6/blob/master/latihan1/pict1.png
-
+https://raw.githubusercontent.com/Chistopertt/praktikum6/master/latihan1/pict1.png
 **flowchart program**
-https://github.com/ayuanjani1234/praktikum6/blob/master/latihan1/flowchart1.png
+https://raw.githubusercontent.com/Chistopertt/praktikum6/master/latihan1/flowchart1.png
 
 **Kode Program**
 
@@ -93,11 +92,9 @@ int inputData(string v)
 4. Build and run jika tidak ada kendala (eror) jalankan
 
 **pict program**
-https://github.com/ayuanjani1234/praktikum6/blob/master/latihan2/pict2.1.png
-
+https://raw.githubusercontent.com/Chistopertt/praktikum6/master/latihan2/pict2.1.png
 **flowchart program**
-https://github.com/ayuanjani1234/praktikum6/blob/master/latihan2/flowchart%202.1.png
-
+https://raw.githubusercontent.com/Chistopertt/praktikum6/master/latihan2/flowchart%202.1.png
 **kode Program**
 ```
 #include<iostream>
@@ -138,9 +135,7 @@ return 0;
 https://github.com/ayuanjani1234/praktikum6/blob/master/latihan2/pict2.2.png
 
 **Flowchart program**
-https://github.com/ayuanjani1234/praktikum6/blob/master/latihan2/flowchart%202.2.png
-
-
+https://raw.githubusercontent.com/Chistopertt/praktikum6/master/latihan2/flowchart%202.2.png
 **Code Program**
 ```
 #include<iostream>
